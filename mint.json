@@ -54,12 +54,6 @@
       ]
     },
     {
-      "group": "Dicas Úteis",
-      "pages": [
-        ""
-      ]
-    },
-    {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
