@@ -50,12 +50,7 @@
     {
       "group": "Comandos",
       "pages": [
-        "comandos/moderacao",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "comandos/moderacao"
       ]
     },
     {
