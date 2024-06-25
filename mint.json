@@ -5,7 +5,7 @@
     "dark": "https://tigerbot.website/logo.png",
     "light": "https://tigerbot.website/logo.png"
   },
-  "favicon": "/logo tiger transparente",
+  "favicon": "/logo tiger transparente.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -33,14 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Site TigerBot",
+      "icon": "/logo tiger transparente.png",
+      "url": "https://tigerbot.website"
     },
     {
       "name": "Blog",
