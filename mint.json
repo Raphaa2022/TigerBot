@@ -5,7 +5,7 @@
     "dark": "https://tigerbot.website/logo.png",
     "light": "https://tigerbot.website/logo.png"
   },
-  "favicon": "https://tigerbot.website/logo.png",
+  "favicon": "/logo tiger transparente",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
