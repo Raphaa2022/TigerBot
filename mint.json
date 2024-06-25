@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "TigerBot Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://tigerbot.website/logo.png",
+    "light": "https://tigerbot.website/logo.png"
   },
   "favicon": "https://tigerbot.website/logo.png",
   "colors": {
