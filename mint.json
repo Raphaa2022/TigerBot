@@ -49,7 +49,8 @@
     {
       "group": "Comandos",
       "pages": [
-        "comandos/moderacao"
+        "comandos/moderacao",
+        "comandos/economia"
       ]
     },
     {
