@@ -36,11 +36,6 @@
       "name": "Site TigerBot",
       "icon": "/transparent.png",
       "url": "https://tigerbot.website"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
