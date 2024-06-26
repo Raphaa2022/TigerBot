@@ -50,7 +50,8 @@
       "group": "Comandos",
       "pages": [
         "comandos/moderacao",
-        "comandos/economia"
+        "comandos/economia",
+        "comandos/social"
       ]
     },
     {
