@@ -45,7 +45,8 @@
       "pages": [
         "comandos/moderacao",
         "comandos/economia",
-        "comandos/social"
+        "comandos/social",
+        "comandos/diversao"
       ]
     }
   ],
