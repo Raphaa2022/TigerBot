@@ -28,7 +28,7 @@
   "anchors": [
     {
       "name": "Site TigerBot",
-      "icon": "logo",
+      "icon": "images/logo",
       "url": "https://tigerbot.website"
     }
   ],
